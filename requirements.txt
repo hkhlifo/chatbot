@@ -1,0 +1,10 @@
+streamlit
+pyttsx3
+speechrecognition
+python-dotenv
+langchain
+langchain-google-genai
+faiss-cpu
+pypdf
+fastapi
+uvicorn
